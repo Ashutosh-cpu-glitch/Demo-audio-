@@ -5,7 +5,7 @@ SpikePoissonDiffusion is an experimental deep learning project that explores dif
 
 The project investigates whether spike-based temporal neural processing can learn to reconstruct cleaner audio waveforms from stochastic corruption generated through Poisson-based noise injection.
 
-Rather than focusing on large-scale speech generation, this work studies the interaction between:
+This work studies the interaction between:
 
 - diffusion-style corruption processes
 - spike-based temporal computation
