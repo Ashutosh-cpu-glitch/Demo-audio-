@@ -168,10 +168,6 @@ The denoised waveforms showed lower reconstruction error compared to corrupted i
 
 ![Training Loss](results/training_loss.png)
 
-## Waveform Reconstruction
-
-![Waveform Reconstruction](results/waveform_denoising.png)
-
 ## Noisy vs Denoised
 
 ![Noisy vs Denoised](results/noisy_vs_denoised.png)
